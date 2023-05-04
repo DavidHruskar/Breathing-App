@@ -14,7 +14,7 @@ body {
     justify-content: center;
     align-items: center;
     color: #fff;
-    background: url('img/relaxing-background-image.png');
+    background: url('/img/relaxing-background-image.png');
     background-size: cover;
 }
 
